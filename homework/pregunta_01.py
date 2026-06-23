@@ -129,15 +129,12 @@ def pregunta_01():
         "sexo",
         "tipo_de_emprendimiento",
         "idea_negocio",
+        "barrio",
         "línea_credito",
     ]
     for columna in columnas_texto:
         df[columna] = df[columna].apply(_fingerprint)
-    df["barrio"] = (
-      df["barrio"]
-      .str.lower()
-      .str.strip()
-    )
+
     # 2. Normalizacion de columnas numericas / de fecha con formatos mixtos
     df["monto_del_credito"] = df["monto_del_credito"].apply(_limpiar_monto)
     df["fecha_de_beneficio"] = df["fecha_de_beneficio"].apply(_limpiar_fecha)
