@@ -15,29 +15,32 @@ Escriba el codigo que ejecute la accion solicitada en la pregunta.
     """
 """Escriba el codigo que ejecute la accion solicitada en la pregunta."""
 
+"""Escriba el codigo que ejecute la accion solicitada en la pregunta."""
+
 import os
 import re
 
 import pandas as pd  # type: ignore
 
 
-import unicodedata
-import re
-
 def _fingerprint(valor):
+    """
+    Genera la "huella" (fingerprint) de una cadena de texto:
+    - convierte a minusculas y quita espacios sobrantes
+    - elimina puntuacion (puntos, guiones, guiones bajos, etc.)
+    - separa en palabras, elimina duplicadas y las ordena alfabeticamente
+    - las vuelve a unir con un solo espacio
 
+    Esto permite agrupar variantes de la misma categoria que solo
+    difieren en mayusculas/minusculas, puntuacion u orden de palabras.
+    Por ejemplo "EMPRESARIAL_ED._", "empresarial-ed.-" y "empresarial ed."
+    terminan teniendo el mismo fingerprint.
+    """
     if pd.isna(valor):
         return valor
-
     texto = str(valor).lower().strip()
-
-    texto = unicodedata.normalize("NFKD", texto)
-    texto = texto.encode("ascii", "ignore").decode("utf-8")
-
     texto = re.sub(r"[^a-z0-9 ]", " ", texto)
-
     tokens = sorted(set(texto.split()))
-
     return " ".join(tokens)
 
 
@@ -126,28 +129,12 @@ def pregunta_01():
         "sexo",
         "tipo_de_emprendimiento",
         "idea_negocio",
+        "barrio",
         "línea_credito",
     ]
     for columna in columnas_texto:
         df[columna] = df[columna].apply(_fingerprint)
-    
-    df["barrio"] = (
-        df["barrio"]
-         .astype(str)
-         .str.lower()
-         .str.strip()
-    )
 
-    df["barrio"] = (
-      df["barrio"]
-      .fillna("")
-      .astype(str)
-      .apply(
-         lambda x: unicodedata.normalize("NFKD", x)
-         .encode("ascii", "ignore")
-         .decode("utf-8")
-      )
-    )
     # 2. Normalizacion de columnas numericas / de fecha con formatos mixtos
     df["monto_del_credito"] = df["monto_del_credito"].apply(_limpiar_monto)
     df["fecha_de_beneficio"] = df["fecha_de_beneficio"].apply(_limpiar_fecha)
@@ -158,20 +145,7 @@ def pregunta_01():
 
     # 4. Eliminacion de registros con datos faltantes
     df = df.dropna()
-    print(df.sexo.value_counts())
 
-    print(df.tipo_de_emprendimiento.value_counts())
-
-    print(df.barrio.nunique())
-    print(df["barrio"].nunique())
-    print(df["barrio"].value_counts().head(100).to_list())
-    print("filas:", len(df))
-
-    print(df.sexo.value_counts())
-
-    print(df.tipo_de_emprendimiento.value_counts())
-
-    print("barrios:", df.barrio.nunique())
     # 5. Escritura del archivo limpio
     os.makedirs("files/output", exist_ok=True)
     df.to_csv(
