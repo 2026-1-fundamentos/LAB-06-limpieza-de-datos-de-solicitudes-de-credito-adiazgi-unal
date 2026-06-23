@@ -139,12 +139,15 @@ def pregunta_01():
     )
 
     df["barrio"] = (
-       df["barrio"]
-       .apply(lambda x: unicodedata.normalize("NFKD", x)
-           .encode("ascii", "ignore")
-           .decode("utf-8"))
+      df["barrio"]
+      .fillna("")
+      .astype(str)
+      .apply(
+         lambda x: unicodedata.normalize("NFKD", x)
+         .encode("ascii", "ignore")
+         .decode("utf-8")
+      )
     )
-
     # 2. Normalizacion de columnas numericas / de fecha con formatos mixtos
     df["monto_del_credito"] = df["monto_del_credito"].apply(_limpiar_monto)
     df["fecha_de_beneficio"] = df["fecha_de_beneficio"].apply(_limpiar_fecha)
