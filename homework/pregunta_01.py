@@ -130,11 +130,21 @@ def pregunta_01():
     ]
     for columna in columnas_texto:
         df[columna] = df[columna].apply(_fingerprint)
-    df["barrio"] =(
-      df["barrio"]
-     .str.lower()
-    .str.strip()
+    
+    df["barrio"] = (
+        df["barrio"]
+         .astype(str)
+         .str.lower()
+         .str.strip()
     )
+
+    df["barrio"] = (
+       df["barrio"]
+       .apply(lambda x: unicodedata.normalize("NFKD", x)
+           .encode("ascii", "ignore")
+           .decode("utf-8"))
+    )
+
     # 2. Normalizacion de columnas numericas / de fecha con formatos mixtos
     df["monto_del_credito"] = df["monto_del_credito"].apply(_limpiar_monto)
     df["fecha_de_beneficio"] = df["fecha_de_beneficio"].apply(_limpiar_fecha)
@@ -152,6 +162,13 @@ def pregunta_01():
     print(df.barrio.nunique())
     print(df["barrio"].nunique())
     print(df["barrio"].value_counts().head(100).to_list())
+    print("filas:", len(df))
+
+    print(df.sexo.value_counts())
+
+    print(df.tipo_de_emprendimiento.value_counts())
+
+    print("barrios:", df.barrio.nunique())
     # 5. Escritura del archivo limpio
     os.makedirs("files/output", exist_ok=True)
     df.to_csv(
