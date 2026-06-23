@@ -22,25 +22,18 @@ import pandas as pd  # type: ignore
 
 
 def _fingerprint(valor):
-    """
-    Genera la "huella" (fingerprint) de una cadena de texto:
-    - convierte a minusculas y quita espacios sobrantes
-    - elimina puntuacion (puntos, guiones, guiones bajos, etc.)
-    - separa en palabras, elimina duplicadas y las ordena alfabeticamente
-    - las vuelve a unir con un solo espacio
 
-    Esto permite agrupar variantes de la misma categoria que solo
-    difieren en mayusculas/minusculas, puntuacion u orden de palabras.
-    Por ejemplo "EMPRESARIAL_ED._", "empresarial-ed.-" y "empresarial ed."
-    terminan teniendo el mismo fingerprint.
-    """
     if pd.isna(valor):
         return valor
-    texto = str(valor).lower().strip()
-    texto = re.sub(r"[^a-z0-9 ]", " ", texto)
-    tokens = sorted(set(texto.split()))
-    return " ".join(tokens)
 
+    texto = str(valor).lower().strip()
+
+    texto = texto.replace("_", " ")
+    texto = texto.replace("-", " ")
+
+    texto = re.sub(r"\s+", " ", texto)
+
+    return texto
 
 def _limpiar_monto(valor):
     """
@@ -143,7 +136,8 @@ def pregunta_01():
     # 4. Eliminacion de registros con datos faltantes
     df = df.dropna()
     
-    
+    print(df["barrio"].nunique())
+    print(df["barrio"].value_counts().head(100).to_list())
     # 5. Escritura del archivo limpio
     os.makedirs("files/output", exist_ok=True)
     df.to_csv(
