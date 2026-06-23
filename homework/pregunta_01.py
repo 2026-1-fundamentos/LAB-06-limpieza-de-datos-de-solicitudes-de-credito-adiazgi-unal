@@ -127,7 +127,6 @@ def pregunta_01():
         "sexo",
         "tipo_de_emprendimiento",
         "idea_negocio",
-        "barrio",
         "línea_credito",
     ]
     for columna in columnas_texto:
@@ -143,7 +142,8 @@ def pregunta_01():
 
     # 4. Eliminacion de registros con datos faltantes
     df = df.dropna()
-
+    
+    
     # 5. Escritura del archivo limpio
     os.makedirs("files/output", exist_ok=True)
     df.to_csv(
