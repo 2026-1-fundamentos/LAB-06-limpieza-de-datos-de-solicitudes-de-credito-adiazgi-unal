@@ -126,7 +126,6 @@ def pregunta_01():
         "sexo",
         "tipo_de_emprendimiento",
         "idea_negocio",
-        "comuna_ciudadano",
         "línea_credito",
     ]
     for columna in columnas_texto:
