@@ -36,9 +36,15 @@ def _fingerprint(valor):
     Por ejemplo "EMPRESARIAL_ED._", "empresarial-ed.-" y "empresarial ed."
     terminan teniendo el mismo fingerprint.
     """
+    # Manejar valores nulos o no string
     if pd.isna(valor):
         return valor
-    texto = str(valor).lower().strip()
+    
+    # Convertir a string si no lo es
+    if not isinstance(valor, str):
+        valor = str(valor)
+    
+    texto = valor.lower().strip()
     texto = re.sub(r"[^a-z0-9 ]", " ", texto)
     tokens = sorted(set(texto.split()))
     return " ".join(tokens)
@@ -153,3 +159,7 @@ def pregunta_01():
         sep=";",
         index=True,
     )
+
+
+if __name__ == "__main__":
+    pregunta_01()
