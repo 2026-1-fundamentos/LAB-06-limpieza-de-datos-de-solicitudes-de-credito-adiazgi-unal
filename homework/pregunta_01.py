@@ -17,6 +17,42 @@ Escriba el codigo que ejecute la accion solicitada en la pregunta.
 
 """Escriba el codigo que ejecute la accion solicitada en la pregunta."""
 
+"""Escriba el codigo que ejecute la accion solicitada en la pregunta."""
+
+import os
+import re
+
+import pandas as pd  # type: ignore
+
+
+def _fingerprint(valor):
+    """
+    Genera la "huella" (fingerprint) de una cadena de texto:
+    - convierte a minusculas y quita espacios sobrantes
+    - elimina puntuacion (puntos, guiones, guiones bajos, etc.) 
+      pero mantiene tildes y caracteres especiales importantes
+    - separa en palabras, elimina duplicadas y las ordena alfabeticamente
+    - las vuelve a unir con un solo espacio
+    """
+    """
+Escriba el codigo que ejecute la accion solicitada en la pregunta.
+"""
+
+
+"""
+   
+    Realice la limpieza del archivo "files/input/solicitudes_de_credito.csv".
+    El archivo tiene problemas como registros duplicados y datos faltantes.
+    Tenga en cuenta todas las verificaciones discutidas en clase para
+    realizar la limpieza de los datos.
+
+    El archivo limpio debe escribirse en "files/output/solicitudes_de_credito.csv"
+
+    """
+"""Escriba el codigo que ejecute la accion solicitada en la pregunta."""
+
+"""Escriba el codigo que ejecute la accion solicitada en la pregunta."""
+
 import os
 import re
 
@@ -36,15 +72,9 @@ def _fingerprint(valor):
     Por ejemplo "EMPRESARIAL_ED._", "empresarial-ed.-" y "empresarial ed."
     terminan teniendo el mismo fingerprint.
     """
-    # Manejar valores nulos o no string
     if pd.isna(valor):
         return valor
-    
-    # Convertir a string si no lo es
-    if not isinstance(valor, str):
-        valor = str(valor)
-    
-    texto = valor.lower().strip()
+    texto = str(valor).lower().strip()
     texto = re.sub(r"[^a-z0-9 ]", " ", texto)
     tokens = sorted(set(texto.split()))
     return " ".join(tokens)
@@ -159,7 +189,3 @@ def pregunta_01():
         sep=";",
         index=True,
     )
-
-
-if __name__ == "__main__":
-    pregunta_01()
