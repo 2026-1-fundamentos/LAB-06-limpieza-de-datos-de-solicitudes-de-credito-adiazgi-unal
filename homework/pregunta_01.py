@@ -21,6 +21,8 @@ import re
 import pandas as pd  # type: ignore
 
 
+import unicodedata
+
 def _fingerprint(valor):
 
     if pd.isna(valor):
@@ -28,12 +30,14 @@ def _fingerprint(valor):
 
     texto = str(valor).lower().strip()
 
-    texto = texto.replace("_", " ")
-    texto = texto.replace("-", " ")
+    texto = unicodedata.normalize("NFKD", texto)
+    texto = texto.encode("ascii", "ignore").decode("utf-8")
 
-    texto = re.sub(r"\s+", " ", texto)
+    texto = re.sub(r"[^a-z0-9 ]", " ", texto)
 
-    return texto
+    tokens = sorted(set(texto.split()))
+
+    return " ".join(tokens)
 
 def _limpiar_monto(valor):
     """
@@ -120,6 +124,8 @@ def pregunta_01():
         "sexo",
         "tipo_de_emprendimiento",
         "idea_negocio",
+        "barrio",
+        "comuna_ciudadano",
         "línea_credito",
     ]
     for columna in columnas_texto:
@@ -135,7 +141,11 @@ def pregunta_01():
 
     # 4. Eliminacion de registros con datos faltantes
     df = df.dropna()
-    
+    print(df.sexo.value_counts())
+
+    print(df.tipo_de_emprendimiento.value_counts())
+
+    print(df.barrio.nunique())
     print(df["barrio"].nunique())
     print(df["barrio"].value_counts().head(100).to_list())
     # 5. Escritura del archivo limpio
