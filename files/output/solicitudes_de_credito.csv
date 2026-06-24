@@ -77,7 +77,7 @@
 76;masculino;comercio;almacen de en ropa;popular;1;1.0;2018-10-18;7800000;microempresarial
 77;masculino;comercio;tienda;la milagrosa;3;9.0;2018-02-20;5000000;microempresarial
 79;femenino;comercio;restaurante;enciso;3;8.0;2017-03-09;7000000;microempresarial
-80;femenino;servicio;organización y;pedregal;3;6.0;2017-10-12;7377000;microempresarial
+80;femenino;servicio;n organizaci y;pedregal;3;6.0;2017-10-12;7377000;microempresarial
 81;femenino;industria;de fabrica;el salvador;2;9.0;2017-06-06;7377000;microempresarial
 82;femenino;industria;de fabrica;1 central manrique no;2;4.0;2018-04-27;3000000;microempresarial
 83;masculino;servicio;restaurante;belen;3;16.0;2017-04-03;7350000;microempresarial
@@ -111,7 +111,7 @@
 112;femenino;comercio;tienda;enciso;2;8.0;2017-04-18;7000000;microempresarial
 113;femenino;comercio;almacen de en ropa;antonio cabecera san;2;80.0;2017-02-09;7377000;microempresarial
 114;femenino;comercio;de helados tienda;1 javier no san;2;13.0;2017-09-27;30000000;ed empresarial
-115;femenino;comercio;almacen de en ropa;antonio nariño;2;13.0;2016-08-16;6890000;microempresarial
+115;femenino;comercio;almacen de en ropa;antonio nari o;2;13.0;2016-08-16;6890000;microempresarial
 116;masculino;comercio;de mar productos;cruz santa;2;2.0;2018-06-07;2500000;microempresarial
 117;femenino;agropecuaria;animales criadero de;antonio cabecera san;2;80.0;2017-12-05;7300000;microempresarial
 118;masculino;servicio;cafe e internet;moravia;3;4.0;2018-02-13;3000000;microempresarial
@@ -247,7 +247,7 @@
 250;masculino;comercio;de helados tienda;1 campo no valdes;2;4.0;2016-04-11;6890000;microempresarial
 251;masculino;comercio;tienda;belencito;2;13.0;2016-03-10;6890000;microempresarial
 252;femenino;servicio;peluqueria;1 campo no valdes;3;4.0;2018-04-03;7800000;microempresarial
-253;masculino;servicio;organización y;florencia;3;5.0;2018-08-21;6000000;microempresarial
+253;masculino;servicio;n organizaci y;florencia;3;5.0;2018-08-21;6000000;microempresarial
 254;femenino;industria;de fabrica;cruz santa;2;2.0;2018-07-09;4500000;microempresarial
 255;masculino;comercio;variedades;robledo;2;7.0;2017-01-17;7377000;microempresarial
 256;masculino;industria;de fabrica;pablo vi;2;2.0;2017-05-16;7000000;microempresarial
@@ -440,7 +440,7 @@
 447;femenino;comercio;papeleria;guadalupe villa;2;1.0;2016-11-30;6890000;microempresarial
 448;femenino;comercio;variedades;boston;3;10.0;2018-09-05;7800000;microempresarial
 449;femenino;industria;de fabrica;robledo;1;7.0;2019-01-22;7800000;microempresarial
-450;femenino;servicio;organización y;cabecera cristobal san;2;60.0;2016-05-11;5000000;microempresarial
+450;femenino;servicio;n organizaci y;cabecera cristobal san;2;60.0;2016-05-11;5000000;microempresarial
 451;femenino;comercio;variedades;domingo santo savio;1;1.0;2017-10-23;4000000;microempresarial
 452;masculino;comercio;tienda;belen;2;16.0;2017-10-12;7200000;microempresarial
 454;masculino;comercio;restaurante;enciso;1;8.0;2016-10-19;4000000;microempresarial
@@ -505,7 +505,7 @@
 515;masculino;comercio;tienda;cabecera cristobal san;3;60.0;2019-06-27;8200000;microempresarial
 516;femenino;comercio;variedades;castilla;2;5.0;2018-05-15;2000000;microempresarial
 517;femenino;comercio;ferreteria;juan la quiebra xxiii;2;13.0;2019-06-25;8000000;microempresarial
-518;masculino;servicio;organización y;boyaca;3;5.0;2018-05-17;15000000;ed empresarial
+518;masculino;servicio;n organizaci y;boyaca;3;5.0;2018-05-17;15000000;ed empresarial
 519;femenino;servicio;peluqueria;moravia;2;4.0;2018-02-15;7800000;microempresarial
 520;femenino;servicio;de lacteos venta;enciso;3;8.0;2016-11-24;5000000;microempresarial
 521;masculino;servicio;comidas rapidas;cabecera cristobal san;3;60.0;2018-02-08;7800000;microempresarial
@@ -683,7 +683,7 @@
 697;masculino;servicio;de distribuidora;altavista suburbano;2;70.0;2018-03-21;7800000;microempresarial
 698;femenino;comercio;alimentos de fabrica;el poblado;2;14.0;2016-01-19;5000000;microempresarial
 699;masculino;comercio;carniceria;enciso;1;8.0;2018-08-23;7800000;microempresarial
-700;masculino;servicio;organización y;de los playon;2;2.0;2017-11-02;7300000;microempresarial
+700;masculino;servicio;n organizaci y;de los playon;2;2.0;2017-11-02;7300000;microempresarial
 701;femenino;comercio;tienda;cabecera cristobal san;2;60.0;2018-02-16;4000000;microempresarial
 702;femenino;comercio;restaurante;enciso;2;8.0;2017-10-09;5000000;microempresarial
 703;masculino;servicio;cafe e internet;1 javier no san;2;13.0;2018-04-16;7000000;microempresarial
@@ -822,9 +822,9 @@
 838;femenino;comercio;almacen de en ropa;1 campo no valdes;3;4.0;2018-03-14;5000000;microempresarial
 839;masculino;comercio;legumbreria;florencia;3;5.0;2016-07-12;6000000;microempresarial
 840;masculino;servicio;peluqueria;aires buenos;3;9.0;2016-07-13;3500000;microempresarial
-841;femenino;industria;de fabrica;antonio nariño;2;13.0;2016-12-21;5000000;microempresarial
+841;femenino;industria;de fabrica;antonio nari o;2;13.0;2016-12-21;5000000;microempresarial
 842;femenino;comercio;variedades;enciso;3;8.0;2018-07-05;7000000;microempresarial
-843;masculino;servicio;organización y;antonio cabecera san;2;80.0;2016-05-05;19000000;cap juridica semilla y
+843;masculino;servicio;n organizaci y;antonio cabecera san;2;80.0;2016-05-05;19000000;cap juridica semilla y
 844;femenino;servicio;comidas rapidas;antonio cabecera san;3;80.0;2016-08-08;6000000;microempresarial
 845;masculino;comercio;variedades;1 javier no san;3;13.0;2017-09-11;7000000;microempresarial
 846;femenino;comercio;restaurante;robledo;3;7.0;2017-10-30;6000000;microempresarial
@@ -878,7 +878,7 @@
 895;femenino;comercio;carniceria;popular;1;1.0;2017-03-13;7300000;microempresarial
 896;femenino;industria;arepas de fabrica;robledo;2;7.0;2016-04-12;6000000;microempresarial
 897;femenino;comercio;calzado de venta;belencito;2;13.0;2018-10-12;3000000;microempresarial
-898;masculino;servicio;en mantenimiento;bel¿n;3;16.0;2016-01-14;6400000;microempresarial
+898;masculino;servicio;en mantenimiento;bel n;3;16.0;2016-01-14;6400000;microempresarial
 899;masculino;industria;de fabrica;lucia santa;1;12.0;2017-03-14;7377000;microempresarial
 900;femenino;servicio;peluqueria;robledo;3;7.0;2017-05-31;7370000;microempresarial
 901;femenino;comercio;papeleria;popular;1;1.0;2017-07-27;7377000;microempresarial
@@ -961,7 +961,7 @@
 979;femenino;servicio;restaurante;enciso;2;8.0;2018-06-01;7000000;microempresarial
 980;femenino;servicio;publicidad y;enciso;2;8.0;2017-02-09;6000000;microempresarial
 981;femenino;comercio;variedades;domingo santo savio;1;1.0;2016-10-05;6850000;microempresarial
-982;masculino;servicio;organización y;castilla;3;5.0;2018-01-24;7812000;microempresarial
+982;masculino;servicio;n organizaci y;castilla;3;5.0;2018-01-24;7812000;microempresarial
 983;femenino;comercio;papeleria;popular;2;1.0;2018-07-26;7800000;microempresarial
 984;femenino;servicio;peluqueria;aranjuez;3;4.0;2018-11-07;7800000;microempresarial
 985;masculino;comercio;restaurante;gerona;3;9.0;2016-10-12;6890000;microempresarial
@@ -1165,9 +1165,9 @@
 1191;masculino;comercio;almacen de en ropa;castilla;2;5.0;2018-06-05;7800000;microempresarial
 1192;femenino;comercio;animales criadero de;pablo vi;2;2.0;2019-02-26;6000000;microempresarial
 1194;masculino;comercio;variedades;domingo santo savio;2;1.0;2017-08-31;6000000;microempresarial
-1195;femenino;servicio;organización y;de lopez mesa;3;7.0;2017-04-24;7300000;microempresarial
+1195;femenino;servicio;n organizaci y;de lopez mesa;3;7.0;2017-04-24;7300000;microempresarial
 1196;masculino;comercio;de lacteos venta;robledo;1;7.0;2016-06-03;6890000;microempresarial
-1197;masculino;servicio;organización y;moravia;1;4.0;2016-12-07;6890000;microempresarial
+1197;masculino;servicio;n organizaci y;moravia;1;4.0;2016-12-07;6890000;microempresarial
 1198;masculino;comercio;comidas rapidas;jesus nazareno;1;10.0;2017-07-25;3000000;microempresarial
 1199;femenino;comercio;panaderia;hermosa villa;3;8.0;2018-01-30;2000000;microempresarial
 1200;masculino;comercio;papeleria;boston;3;10.0;2017-12-19;7300000;microempresarial
@@ -1353,10 +1353,10 @@
 1385;masculino;comercio;granero;granizal;2;1.0;2017-07-27;5000000;microempresarial
 1386;femenino;servicio;peluqueria;cruz santa;2;2.0;2018-09-12;6000000;microempresarial
 1387;femenino;comercio;variedades;aires buenos;3;9.0;2017-10-10;3000000;microempresarial
-1388;masculino;industria;organización y;aires buenos;3;9.0;2016-11-29;5000000;microempresarial
+1388;masculino;industria;n organizaci y;aires buenos;3;9.0;2016-11-29;5000000;microempresarial
 1389;masculino;servicio;panaderia;calasanz;3;12.0;2018-09-24;7800000;microempresarial
 1390;masculino;agropecuaria;jardineria;belen;1;16.0;2017-02-20;14754000;microempresarial
-1391;femenino;servicio;organización y;popular;2;1.0;2018-01-23;7300000;microempresarial
+1391;femenino;servicio;n organizaci y;popular;2;1.0;2018-01-23;7300000;microempresarial
 1392;femenino;comercio;variedades;2 central manrique no;2;3.0;2016-04-12;2000000;microempresarial
 1393;femenino;comercio;variedades;hermosa villa;2;8.0;2017-10-30;7377000;microempresarial
 1394;masculino;industria;calzado de fabrica;pedregal;3;6.0;2018-03-08;4000000;microempresarial
@@ -1555,7 +1555,7 @@
 1591;femenino;industria;cerrajeria;1 javier no san;2;13.0;2018-10-11;7800000;microempresarial
 1592;femenino;comercio;variedades;cruz santa;2;2.0;2018-06-15;7800000;microempresarial
 1593;masculino;comercio;variedades;aranjuez;3;2.0;2017-06-20;7377000;microempresarial
-1594;femenino;servicio;organización y;2 central manrique no;2;3.0;2016-06-07;6890000;microempresarial
+1594;femenino;servicio;n organizaci y;2 central manrique no;2;3.0;2016-06-07;6890000;microempresarial
 1595;femenino;industria;de fabrica;loreto;2;9.0;2018-11-28;5000000;microempresarial
 1596;femenino;servicio;peluqueria;candelaria la;1;10.0;2016-11-02;4000000;microempresarial
 1597;femenino;comercio;comidas rapidas;belen;3;16.0;2018-05-07;7800000;microempresarial
@@ -1572,7 +1572,7 @@
 1608;femenino;comercio;bares;cruz santa;2;2.0;2019-04-02;7000000;microempresarial
 1609;masculino;comercio;panaderia;aires buenos;3;9.0;2018-11-16;7800000;microempresarial
 1610;femenino;comercio;comidas rapidas;villatina;1;8.0;2018-07-30;7800000;microempresarial
-1612;masculino;servicio;organización y;cima de jose la no san;2;3.0;2018-04-18;800000;microempresarial
+1612;masculino;servicio;n organizaci y;cima de jose la no san;2;3.0;2018-04-18;800000;microempresarial
 1613;femenino;industria;de fabrica;villatina;2;8.0;2016-02-04;4000000;microempresarial
 1614;masculino;industria;de fabrica productos;la milagrosa;3;9.0;2017-08-29;7377000;microempresarial
 1616;femenino;servicio;cafe e internet;robledo;2;7.0;2018-02-14;7000000;microempresarial
@@ -1756,7 +1756,7 @@
 1803;femenino;comercio;variedades;el salvador;3;9.0;2017-07-24;7370000;microempresarial
 1804;masculino;comercio;tienda;cabecera cristobal san;2;60.0;2016-05-10;1600000;microempresarial
 1805;femenino;comercio;panaderia;prado;3;10.0;2018-10-29;7800000;microempresarial
-1806;masculino;servicio;organización y;la milagrosa;3;9.0;2018-05-09;4500000;microempresarial
+1806;masculino;servicio;n organizaci y;la milagrosa;3;9.0;2018-05-09;4500000;microempresarial
 1807;masculino;servicio;ceramica de fabrica;villatina;2;8.0;2016-12-21;6890000;microempresarial
 1808;masculino;comercio;tienda;toscana;2;5.0;2017-09-22;7000000;microempresarial
 1809;femenino;comercio;de distribuidora;1 de doce no octubre;2;6.0;2018-04-19;6000000;microempresarial
@@ -1827,7 +1827,7 @@
 1875;femenino;servicio;variedades;francia la;2;2.0;2017-10-26;7300000;microempresarial
 1876;masculino;industria;de fabrica;diamante el;2;7.0;2019-04-25;8000000;microempresarial
 1877;femenino;comercio;calzado de venta;granizal;2;1.0;2017-10-26;1500000;microempresarial
-1878;femenino;servicio;organización y;1 javier no san;1;13.0;2018-04-18;7000000;microempresarial
+1878;femenino;servicio;n organizaci y;1 javier no san;1;13.0;2018-04-18;7000000;microempresarial
 1879;femenino;comercio;variedades;cabecera cristobal san;3;60.0;2018-04-16;2000000;microempresarial
 1880;masculino;comercio;comidas rapidas;amor campo;3;15.0;2017-07-26;7370000;microempresarial
 1881;masculino;industria;calzado de fabrica;belencito;2;13.0;2016-10-19;6890000;microempresarial
@@ -2060,7 +2060,7 @@
 2117;masculino;comercio;en mantenimiento;juan la quiebra xxiii;2;13.0;2018-06-12;2500000;microempresarial
 2118;femenino;industria;de fabrica;aires buenos;3;9.0;2016-08-08;6890000;microempresarial
 2119;femenino;servicio;variedades;la milagrosa;3;9.0;2017-03-03;7377000;microempresarial
-2120;masculino;servicio;servicios;bel¿n;3;16.0;2016-01-18;6800000;microempresarial
+2120;masculino;servicio;servicios;bel n;3;16.0;2016-01-18;6800000;microempresarial
 2121;femenino;comercio;variedades;1 javier no san;1;13.0;2018-06-20;7000000;microempresarial
 2122;femenino;servicio;miscelanea;villatina;1;8.0;2016-09-13;6890000;microempresarial
 2123;masculino;comercio;tienda;granizal;1;1.0;2018-04-16;7800000;microempresarial
@@ -2222,7 +2222,7 @@
 2284;femenino;comercio;variedades;popular;1;1.0;2016-11-19;6890000;microempresarial
 2285;femenino;comercio;restaurante;florencia;3;5.0;2018-10-11;7800000;microempresarial
 2286;femenino;comercio;variedades;cabecera cristobal san;1;60.0;2018-06-15;2000000;microempresarial
-2287;masculino;comercio;comidas rapidas;antonio nariño;2;13.0;2017-07-13;7370000;microempresarial
+2287;masculino;comercio;comidas rapidas;antonio nari o;2;13.0;2017-07-13;7370000;microempresarial
 2288;femenino;industria;panaderia;aranjuez;3;4.0;2017-10-02;3000000;microempresarial
 2289;femenino;comercio;comidas rapidas;aranjuez;3;4.0;2017-10-31;7377000;microempresarial
 2290;femenino;servicio;restaurante;enciso;1;8.0;2017-12-29;7377000;microempresarial
@@ -2551,7 +2551,7 @@
 2621;femenino;comercio;comidas rapidas;cabecera cristobal san;2;60.0;2017-09-26;4000000;microempresarial
 2622;masculino;comercio;comidas rapidas;pedro san;2;4.0;2017-06-13;7300000;microempresarial
 2623;femenino;comercio;comidas rapidas;robledo;1;7.0;2017-01-30;5000000;microempresarial
-2624;femenino;servicio;organización y;1 central manrique no;1;4.0;2017-11-15;7377000;microempresarial
+2624;femenino;servicio;n organizaci y;1 central manrique no;1;4.0;2017-11-15;7377000;microempresarial
 2625;masculino;comercio;variedades;robledo;2;7.0;2018-02-09;700000;microempresarial
 2626;femenino;industria;de fabrica;belencito;2;13.0;2018-08-10;4000000;microempresarial
 2627;femenino;industria;calzado de fabrica;enciso;3;8.0;2017-09-19;6000000;microempresarial
@@ -2589,7 +2589,7 @@
 2660;femenino;industria;de fabrica;1 central manrique no;3;4.0;2017-12-05;7377000;microempresarial
 2661;femenino;comercio;variedades;pablo vi;2;2.0;2018-06-21;4000000;microempresarial
 2662;femenino;comercio;joyeria;popular;2;1.0;2019-04-30;4000000;microempresarial
-2663;femenino;comercio;variedades;bel¿n;1;16.0;2016-02-19;2000000;microempresarial
+2663;femenino;comercio;variedades;bel n;1;16.0;2016-02-19;2000000;microempresarial
 2664;femenino;industria;de fabrica productos;las palmas;2;10.0;2016-04-22;6890000;microempresarial
 2665;femenino;comercio;de fabrica;belen;3;16.0;2018-04-03;7000000;microempresarial
 2666;femenino;servicio;peluqueria;pedregal;3;6.0;2017-02-17;4000000;microempresarial
@@ -2922,7 +2922,7 @@
 3011;masculino;industria;calzado de fabrica;cruz santa;2;2.0;2018-08-02;6000000;microempresarial
 3012;femenino;comercio;comidas rapidas;antonio cabecera san;3;80.0;2017-03-09;7377170;microempresarial
 3013;femenino;comercio;miscelanea;domingo santo savio;2;1.0;2017-08-24;6000000;microempresarial
-3014;femenino;comercio;pañalera;aires buenos;2;9.0;2017-05-31;7370000;microempresarial
+3014;femenino;comercio;alera pa;aires buenos;2;9.0;2017-05-31;7370000;microempresarial
 3015;femenino;servicio;variedades;cruz santa;2;2.0;2017-11-27;4000000;microempresarial
 3016;femenino;comercio;de fabrica;cruz santa;2;2.0;2017-06-23;7377000;microempresarial
 3017;femenino;industria;de fabrica;domingo santo savio;2;1.0;2017-09-18;7300000;microempresarial
@@ -2987,7 +2987,7 @@
 3080;masculino;servicio;gimnasio;belen;3;16.0;2018-06-14;7800000;microempresarial
 3081;masculino;industria;educativo recreativo;enciso;2;8.0;2016-03-31;6800000;microempresarial
 3082;femenino;comercio;comidas rapidas;manrique oriental;2;3.0;2018-08-08;5000000;microempresarial
-3084;femenino;comercio;organización y;domingo santo savio;1;1.0;2019-05-03;8000000;microempresarial
+3084;femenino;comercio;n organizaci y;domingo santo savio;1;1.0;2019-05-03;8000000;microempresarial
 3085;femenino;industria;de fabrica;1 central manrique no;3;4.0;2018-08-17;3000000;microempresarial
 3086;masculino;comercio;tienda;manrique oriental;2;3.0;2019-03-28;2000000;microempresarial
 3087;masculino;servicio;restaurante;aires buenos;3;9.0;2017-11-14;30000000;ed empresarial
@@ -3321,7 +3321,7 @@
 3432;femenino;industria;calzado de fabrica;granizal;2;1.0;2018-06-05;7800000;microempresarial
 3433;femenino;servicio;de lacteos venta;popular;2;1.0;2017-10-03;3000000;microempresarial
 3434;femenino;servicio;peluqueria;popular;2;1.0;2018-05-03;5600000;microempresarial
-3435;femenino;servicio;organización y;belen;3;16.0;2016-07-06;6890000;microempresarial
+3435;femenino;servicio;n organizaci y;belen;3;16.0;2016-07-06;6890000;microempresarial
 3437;femenino;servicio;de fabrica;enciso;2;8.0;2016-11-16;6000000;microempresarial
 3438;masculino;comercio;tienda;pablo vi;2;2.0;2019-05-17;5000000;microempresarial
 3439;femenino;comercio;tienda;alfonso lopez;3;5.0;2016-11-10;6890000;microempresarial
@@ -3333,7 +3333,7 @@
 3445;femenino;comercio;peluqueria;de los playon;2;2.0;2018-02-02;7800000;microempresarial
 3446;masculino;comercio;comidas rapidas;manrique oriental;2;3.0;2018-12-04;7812000;microempresarial
 3447;femenino;servicio;comidas rapidas;castilla;3;5.0;2018-03-20;7800000;microempresarial
-3448;masculino;servicio;organización y;de los maria santa;3;14.0;2017-06-09;20000000;ed empresarial
+3448;masculino;servicio;n organizaci y;de los maria santa;3;14.0;2017-06-09;20000000;ed empresarial
 3449;masculino;comercio;de fabrica;enciso;1;8.0;2018-01-10;7300000;microempresarial
 3450;femenino;servicio;peluqueria;cataluna;3;9.0;2017-08-17;1500000;microempresarial
 3451;femenino;industria;de fabrica;las palmas;2;10.0;2018-07-12;7800000;microempresarial
@@ -3806,7 +3806,7 @@
 3945;femenino;comercio;comidas rapidas;miranda;2;4.0;2017-11-08;2500000;microempresarial
 3947;masculino;comercio;miscelanea;villatina;2;8.0;2017-12-12;7000000;microempresarial
 3948;femenino;industria;de fabrica;el salvador;2;9.0;2017-11-17;7000000;microempresarial
-3949;femenino;comercio;organización y;enciso;2;8.0;2018-05-09;4000000;microempresarial
+3949;femenino;comercio;n organizaci y;enciso;2;8.0;2018-05-09;4000000;microempresarial
 3950;femenino;comercio;variedades;2 central manrique no;2;3.0;2018-10-25;7800000;microempresarial
 3951;femenino;comercio;alimentos de fabrica;admtivo centro;2;10.0;2018-08-29;7800000;microempresarial
 3952;femenino;comercio;comidas rapidas;hermosa villa;3;8.0;2018-06-27;5300000;microempresarial
@@ -3867,7 +3867,7 @@
 4011;femenino;servicio;peluqueria;2 central manrique no;1;3.0;2019-05-10;4000000;microempresarial
 4012;masculino;comercio;tienda;de los playon;2;2.0;2016-09-28;6890000;microempresarial
 4013;femenino;comercio;almacen de en ropa;1 central manrique no;3;4.0;2017-12-22;7300000;microempresarial
-4014;femenino;comercio;pañalera;popular;2;1.0;2017-09-25;2500000;microempresarial
+4014;femenino;comercio;alera pa;popular;2;1.0;2017-09-25;2500000;microempresarial
 4015;masculino;comercio;variedades;2 central manrique no;1;3.0;2016-06-07;6890000;microempresarial
 4016;femenino;comercio;tienda;domingo santo savio;1;1.0;2018-06-05;4000000;microempresarial
 4017;masculino;comercio;tienda;belen;2;16.0;2019-02-27;8281000;microempresarial
@@ -4057,7 +4057,7 @@
 4211;femenino;comercio;panaderia;1 bombona no;3;10.0;2016-09-30;6800000;microempresarial
 4212;masculino;comercio;tienda;domingo santo savio;1;1.0;2018-12-05;6000000;microempresarial
 4214;masculino;servicio;de mecanica taller;cabecera cristobal san;2;60.0;2019-05-22;8000000;microempresarial
-4215;femenino;comercio;variedades;antonio nariño;3;13.0;2018-05-04;780000;microempresarial
+4215;femenino;comercio;variedades;antonio nari o;3;13.0;2018-05-04;780000;microempresarial
 4216;femenino;industria;de fabrica;belalcazar;2;5.0;2016-11-01;6890000;microempresarial
 4217;femenino;agropecuaria;animales criadero de;2 central manrique no;1;3.0;2018-07-19;7812000;microempresarial
 4218;femenino;comercio;variedades;robledo;2;7.0;2017-03-29;3000000;microempresarial
@@ -4077,7 +4077,7 @@
 4233;femenino;industria;de fabrica;belen;2;16.0;2018-08-08;7800000;microempresarial
 4234;femenino;comercio;variedades;1 central manrique no;2;4.0;2017-11-07;7377000;microempresarial
 4235;femenino;industria;de fabrica;robledo;1;7.0;2018-04-27;7000000;microempresarial
-4236;masculino;servicio;organización y;belen;3;16.0;2016-07-14;68900000;microempresarial
+4236;masculino;servicio;n organizaci y;belen;3;16.0;2016-07-14;68900000;microempresarial
 4237;femenino;industria;carpinteria;aranjuez;2;4.0;2018-05-15;7800000;microempresarial
 4239;femenino;industria;de fabrica;sucre;3;8.0;2018-07-12;5000000;microempresarial
 4240;femenino;comercio;naturista tienda;1 campo no valdes;3;4.0;2018-05-28;7800000;microempresarial
@@ -4308,7 +4308,7 @@
 4481;femenino;comercio;charcuteria;robledo;2;7.0;2016-11-02;6000000;microempresarial
 4482;femenino;industria;de fabrica;robledo;2;7.0;2016-02-25;6500000;microempresarial
 4483;femenino;industria;de fabrica;las violetas;2;16.0;2017-11-07;3000000;microempresarial
-4484;masculino;servicio;organización y;pedregal;2;6.0;2017-03-24;1500000;microempresarial
+4484;masculino;servicio;n organizaci y;pedregal;2;6.0;2017-03-24;1500000;microempresarial
 4485;femenino;servicio;cafeteria;aranjuez;1;4.0;2018-03-08;1200000;microempresarial
 4486;femenino;comercio;variedades;castilla;2;5.0;2018-02-14;4000000;microempresarial
 4487;masculino;comercio;variedades;belen;3;16.0;2017-02-03;7000000;microempresarial
@@ -4346,7 +4346,7 @@
 4521;masculino;comercio;variedades;domingo santo savio;1;1.0;2018-08-14;7800000;microempresarial
 4522;femenino;servicio;peluqueria;francia la;2;80.0;2016-10-31;6890000;microempresarial
 4523;femenino;comercio;papeleria;aires buenos;3;9.0;2017-06-09;5000000;microempresarial
-4524;femenino;comercio;de fabrica;bel¿n;3;16.0;2016-01-14;3000000;microempresarial
+4524;femenino;comercio;de fabrica;bel n;3;16.0;2016-01-14;3000000;microempresarial
 4525;femenino;industria;de fabrica;la milagrosa;3;9.0;2019-05-28;8200000;microempresarial
 4526;femenino;comercio;comidas rapidas;cruz santa;1;2.0;2016-08-19;4000000;microempresarial
 4527;femenino;servicio;peluqueria;barrio caicedo;2;9.0;2017-02-23;7000000;microempresarial
@@ -4444,7 +4444,7 @@
 4626;masculino;comercio;variedades;1 de doce no octubre;2;6.0;2017-08-11;4000000;microempresarial
 4627;femenino;comercio;variedades;castilla;3;5.0;2018-06-06;7000000;microempresarial
 4628;masculino;comercio;comidas rapidas;aranjuez;1;4.0;2018-10-24;1500000;microempresarial
-4629;femenino;comercio;organización y;santander;2;6.0;2016-09-01;3000000;microempresarial
+4629;femenino;comercio;n organizaci y;santander;2;6.0;2016-09-01;3000000;microempresarial
 4630;masculino;servicio;ebanistaria;2 central manrique no;3;3.0;2019-04-04;7000000;microempresarial
 4631;femenino;comercio;variedades;2 central manrique no;1;3.0;2018-04-11;4000000;microempresarial
 4632;femenino;industria;de fabrica;1 javier no san;2;13.0;2017-12-06;4000000;microempresarial
@@ -4590,7 +4590,7 @@
 4777;femenino;servicio;peluqueria;niza villa;2;2.0;2018-11-20;4000000;microempresarial
 4778;femenino;comercio;de distribuidora;robledo;2;7.0;2017-10-12;7300000;microempresarial
 4779;femenino;comercio;variedades;popular;2;1.0;2018-07-10;4000000;microempresarial
-4780;masculino;servicio;organización y;domingo santo savio;1;1.0;2018-02-16;7000000;microempresarial
+4780;masculino;servicio;n organizaci y;domingo santo savio;1;1.0;2018-02-16;7000000;microempresarial
 4781;femenino;servicio;peluqueria;pedregal;3;6.0;2016-07-19;3000000;microempresarial
 4782;masculino;comercio;variedades;la salle;2;3.0;2018-10-24;7000000;microempresarial
 4784;femenino;comercio;belleza de productos;alfonso lopez;2;5.0;2017-07-19;7370000;microempresarial
@@ -4606,7 +4606,7 @@
 4795;femenino;industria;de fabrica;robledo;2;7.0;2016-06-08;6000000;microempresarial
 4796;masculino;servicio;barberia;barrio caicedo;2;9.0;2017-09-22;7377000;microempresarial
 4797;femenino;comercio;miscelanea;santander;2;6.0;2016-08-09;6800000;microempresarial
-4798;femenino;comercio;almacen de en ropa;antonio nariño;2;13.0;2018-06-01;7800000;microempresarial
+4798;femenino;comercio;almacen de en ropa;antonio nari o;2;13.0;2018-06-01;7800000;microempresarial
 4799;masculino;comercio;restaurante;enciso;2;8.0;2018-05-25;2000000;microempresarial
 4801;femenino;industria;de fabrica;pedregal;3;6.0;2018-09-24;5000000;microempresarial
 4802;femenino;comercio;miscelanea;1 de doce no octubre;2;6.0;2018-07-25;7000000;microempresarial
@@ -4621,7 +4621,7 @@
 4811;femenino;comercio;comidas rapidas;barrio caicedo;2;9.0;2016-11-15;6890000;microempresarial
 4812;femenino;comercio;miscelanea;robledo;2;7.0;2018-02-14;6000000;microempresarial
 4814;femenino;comercio;tienda;botanico jardin;2;4.0;2017-05-25;7377000;microempresarial
-4815;femenino;comercio;tienda;antonio nariño;2;13.0;2018-11-06;4000000;microempresarial
+4815;femenino;comercio;tienda;antonio nari o;2;13.0;2018-11-06;4000000;microempresarial
 4816;masculino;industria;de fabrica;aranjuez;1;4.0;2017-06-06;2000000;microempresarial
 4817;masculino;comercio;variedades;carpinelo;1;1.0;2018-08-14;5000000;microempresarial
 4818;femenino;comercio;charcuteria;robledo;3;7.0;2016-10-28;6890000;microempresarial
@@ -4707,7 +4707,7 @@
 4902;femenino;servicio;comidas rapidas;robledo;3;7.0;2016-04-07;4000000;microempresarial
 4903;femenino;comercio;tienda;popular;2;1.0;2018-09-14;6000000;microempresarial
 4904;femenino;industria;de fabrica;trinidad;3;15.0;2018-02-06;7800000;microempresarial
-4905;femenino;industria;de fabrica;antonio nariño;2;13.0;2017-06-05;2000000;microempresarial
+4905;femenino;industria;de fabrica;antonio nari o;2;13.0;2017-06-05;2000000;microempresarial
 4906;femenino;comercio;almacen de en ropa;castilla;2;5.0;2018-10-18;7800000;microempresarial
 4907;masculino;comercio;tienda;aires buenos;3;9.0;2017-06-22;7377000;microempresarial
 4908;femenino;comercio;alimentos de fabrica;calasanz;2;12.0;2019-04-23;2000000;microempresarial
@@ -4715,7 +4715,7 @@
 4910;masculino;servicio;restaurante;girardot;3;5.0;2017-02-06;3500000;microempresarial
 4911;femenino;comercio;comidas rapidas;popular;2;1.0;2017-10-24;6000000;microempresarial
 4912;masculino;comercio;almacen de en ropa;cabecera cristobal san;2;60.0;2017-12-12;2000000;microempresarial
-4913;masculino;comercio;joyeria;antonio nariño;1;13.0;2017-08-29;7370000;microempresarial
+4913;masculino;comercio;joyeria;antonio nari o;1;13.0;2017-08-29;7370000;microempresarial
 4914;masculino;comercio;de fabrica helados;1 javier no san;2;13.0;2017-07-28;6000000;microempresarial
 4915;femenino;industria;de fabrica;1 de doce no octubre;2;6.0;2017-07-13;3000000;microempresarial
 4916;femenino;industria;de fabrica;cruz santa;2;2.0;2017-11-02;5000000;microempresarial
@@ -5234,7 +5234,7 @@
 5463;femenino;comercio;almacen de en ropa;picacho;1;6.0;2018-11-15;7812000;microempresarial
 5464;femenino;comercio;peluqueria;2 central manrique no;2;3.0;2018-04-10;4000000;microempresarial
 5465;femenino;comercio;naturista tienda;robledo;2;7.0;2017-10-06;7300000;microempresarial
-5466;masculino;comercio;comidas rapidas;bel¿n;2;16.0;2016-02-01;1500000;microempresarial
+5466;masculino;comercio;comidas rapidas;bel n;2;16.0;2016-02-01;1500000;microempresarial
 5467;masculino;industria;de fabrica;enciso;1;8.0;2017-07-11;7300000;microempresarial
 5469;masculino;servicio;comidas rapidas;castilla;2;5.0;2019-05-22;2000000;microempresarial
 5470;femenino;comercio;calzado de fabrica;barrio caicedo;2;9.0;2017-02-27;4000000;microempresarial
@@ -5608,7 +5608,7 @@
 5866;femenino;comercio;variedades;tejelo;3;5.0;2017-12-13;7300000;microempresarial
 5867;femenino;comercio;comidas rapidas;robledo;2;7.0;2018-04-16;7800000;microempresarial
 5868;masculino;comercio;legumbreria;moravia;1;4.0;2017-04-26;7300000;microempresarial
-5869;femenino;servicio;organización y;robledo;2;7.0;2018-05-11;7800000;microempresarial
+5869;femenino;servicio;n organizaci y;robledo;2;7.0;2018-05-11;7800000;microempresarial
 5870;masculino;comercio;almacen de en ropa;abad gomez hector;2;5.0;2018-11-07;4000000;microempresarial
 5871;masculino;comercio;variedades;1 central manrique no;2;4.0;2017-02-23;2000000;microempresarial
 5872;femenino;comercio;tienda;boyaca;1;5.0;2016-09-19;4000000;microempresarial
@@ -5701,7 +5701,7 @@
 5967;masculino;comercio;almacen de en ropa;robledo;2;7.0;2017-03-22;4000000;microempresarial
 5968;femenino;servicio;barberia;antonio cabecera san;3;80.0;2016-11-04;6890000;microempresarial
 5970;femenino;comercio;tienda;popular;2;1.0;2016-06-13;6890000;microempresarial
-5971;masculino;servicio;organización y;belen;3;16.0;2017-06-01;7370000;microempresarial
+5971;masculino;servicio;n organizaci y;belen;3;16.0;2017-06-01;7370000;microempresarial
 5972;femenino;servicio;peluqueria;belen;2;16.0;2018-08-13;7800000;microempresarial
 5973;femenino;comercio;variedades;1 campo no valdes;3;4.0;2018-11-14;7800000;microempresarial
 5974;femenino;servicio;peluqueria;florencia;3;5.0;2017-10-19;5000000;microempresarial
@@ -5914,7 +5914,7 @@
 6197;masculino;comercio;arepas de fabrica;1 central manrique no;2;4.0;2018-07-25;2000000;microempresarial
 6198;femenino;comercio;cafeteria;chagualo el;3;10.0;2017-07-26;7000000;microempresarial
 6199;masculino;comercio;almacen de en ropa;antonio cabecera san;2;80.0;2017-11-20;4000000;microempresarial
-6200;femenino;servicio;organización y;1 central manrique no;2;4.0;2018-10-30;13000000;ed empresarial
+6200;femenino;servicio;n organizaci y;1 central manrique no;2;4.0;2018-10-30;13000000;ed empresarial
 6201;masculino;servicio;peluqueria;aires buenos;2;9.0;2017-08-10;6000000;microempresarial
 6202;masculino;comercio;variedades;1 central manrique no;3;4.0;2017-06-12;7370000;microempresarial
 6203;masculino;comercio;tienda;castilla;3;5.0;2019-01-29;7000000;microempresarial
@@ -6149,7 +6149,7 @@
 6447;femenino;servicio;comidas rapidas;robledo;3;7.0;2017-05-12;4000000;microempresarial
 6448;masculino;comercio;variedades;manrique oriental;1;3.0;2018-03-12;3000000;microempresarial
 6449;femenino;comercio;de fabrica;francia la;2;2.0;2018-06-21;6000000;microempresarial
-6450;masculino;servicio;organización y;manrique oriental;3;3.0;2016-12-16;20000000;cap juridica semilla y
+6450;masculino;servicio;n organizaci y;manrique oriental;3;3.0;2016-12-16;20000000;cap juridica semilla y
 6451;masculino;comercio;variedades;miraflores;3;9.0;2018-04-04;7800000;microempresarial
 6452;femenino;comercio;variedades;cabecera cristobal san;2;60.0;2017-08-02;7377000;microempresarial
 6453;femenino;comercio;restaurante;cristo rey;3;15.0;2018-01-24;6000000;microempresarial
@@ -6319,7 +6319,7 @@
 6627;masculino;comercio;tienda;cabecera cristobal san;2;5.0;2019-02-06;4000000;microempresarial
 6628;masculino;comercio;arepas de fabrica;aires buenos;3;9.0;2016-11-28;6800000;microempresarial
 6629;femenino;comercio;drogueria;moravia;2;4.0;2018-06-20;5000000;microempresarial
-6630;masculino;servicio;organización y;2 central manrique no;1;3.0;2016-04-26;6443500;microempresarial
+6630;masculino;servicio;n organizaci y;2 central manrique no;1;3.0;2016-04-26;6443500;microempresarial
 6631;masculino;industria;de fabrica;cabecera cristobal san;1;60.0;2019-01-18;7800000;microempresarial
 6632;masculino;comercio;comidas rapidas;antonio francisco zea;3;5.0;2019-02-22;8000000;microempresarial
 6633;masculino;industria;de fabrica;pedro san;2;4.0;2018-04-16;5000000;microempresarial
@@ -6335,7 +6335,7 @@
 6649;masculino;industria;de fabrica;lucia santa;3;12.0;2018-04-26;4500000;microempresarial
 6650;femenino;industria;de fabrica;cabecera cristobal san;2;60.0;2018-05-07;2500000;microempresarial
 6651;masculino;comercio;comidas rapidas;domingo santo savio;1;1.0;2018-04-26;3000000;microempresarial
-6652;masculino;servicio;organización y;robledo;2;7.0;2016-09-08;1500000;microempresarial
+6652;masculino;servicio;n organizaci y;robledo;2;7.0;2016-09-08;1500000;microempresarial
 6653;femenino;comercio;variedades;2 campo no valdes;2;3.0;2016-03-31;5000000;microempresarial
 6654;femenino;industria;de fabrica;1 javier no san;1;13.0;2018-02-07;2000000;microempresarial
 6655;femenino;comercio;comidas rapidas;1 central manrique no;3;4.0;2016-10-05;6894000;microempresarial
@@ -6393,7 +6393,7 @@
 6711;masculino;industria;de fabrica;kennedy;2;6.0;2018-04-23;7800000;microempresarial
 6712;femenino;servicio;peluqueria;1 javier no san;2;13.0;2018-03-16;7800000;microempresarial
 6713;masculino;comercio;restaurante;boston;2;10.0;2017-02-17;7370000;microempresarial
-6714;femenino;industria;de fabrica;antonio nariño;3;13.0;2018-05-11;5000000;microempresarial
+6714;femenino;industria;de fabrica;antonio nari o;3;13.0;2018-05-11;5000000;microempresarial
 6715;masculino;comercio;almacen de en ropa;manrique oriental;2;3.0;2016-12-21;6000000;microempresarial
 6716;femenino;comercio;comidas rapidas;robledo;1;7.0;2018-11-16;5000000;microempresarial
 6717;femenino;comercio;de fabrica;granizal;2;1.0;2017-11-27;7300000;microempresarial
@@ -6459,7 +6459,7 @@
 6784;femenino;comercio;comidas rapidas;las palmas;3;10.0;2018-07-12;7000000;microempresarial
 6785;femenino;comercio;almacen de en ropa;robledo;2;7.0;2016-11-16;2000000;microempresarial
 6786;masculino;agropecuaria;animales criadero de;andalucia;2;2.0;2019-04-24;8000000;microempresarial
-6787;femenino;comercio;variedades;antonio nariño;2;13.0;2018-01-10;4500000;microempresarial
+6787;femenino;comercio;variedades;antonio nari o;2;13.0;2018-01-10;4500000;microempresarial
 6788;femenino;servicio;peluqueria;robledo;2;7.0;2018-04-03;6000000;microempresarial
 6789;femenino;comercio;variedades;robledo;2;7.0;2018-04-05;4000000;microempresarial
 6790;masculino;servicio;carpinteria;1 central manrique no;1;4.0;2018-04-30;6000000;microempresarial
@@ -6978,7 +6978,7 @@
 7351;masculino;comercio;variedades;llanaditas;1;8.0;2018-03-12;7800000;microempresarial
 7352;femenino;comercio;papeleria;robledo;2;7.0;2018-06-27;6000000;microempresarial
 7354;masculino;industria;de mecanica taller;domingo santo savio;2;1.0;2017-07-13;1200000;microempresarial
-7355;masculino;servicio;organización y;1 central manrique no;2;4.0;2017-05-31;2000000;microempresarial
+7355;masculino;servicio;n organizaci y;1 central manrique no;2;4.0;2017-05-31;2000000;microempresarial
 7356;femenino;comercio;tienda;domingo santo savio;1;1.0;2017-10-04;7377000;microempresarial
 7357;femenino;comercio;tienda;antonio cabecera san;3;80.0;2017-11-21;7300000;microempresarial
 7360;masculino;comercio;marqueteria;1 campo no valdes;3;4.0;2017-02-28;7300000;microempresarial
@@ -7278,7 +7278,7 @@
 7677;masculino;servicio;de deposito;compromiso el;1;1.0;2018-05-11;3000000;microempresarial
 7678;femenino;industria;de fabrica;1 central manrique no;2;4.0;2018-06-08;7000000;microempresarial
 7679;femenino;servicio;comidas rapidas;1 javier no san;1;13.0;2016-04-01;4000000;microempresarial
-7680;masculino;comercio;organización y;admtivo centro;3;10.0;2017-08-24;18000000;cap juridica semilla y
+7680;masculino;comercio;n organizaci y;admtivo centro;3;10.0;2017-08-24;18000000;cap juridica semilla y
 7681;femenino;servicio;restaurante;cabecera cristobal san;1;60.0;2018-04-25;7800000;microempresarial
 7682;femenino;comercio;cafeteria;aranjuez;2;4.0;2016-12-13;6890000;microempresarial
 7683;femenino;industria;variedades;belencito;2;13.0;2016-10-12;5000000;microempresarial
@@ -7487,7 +7487,7 @@
 7908;femenino;comercio;variedades;cruz santa;2;2.0;2018-03-14;1500000;microempresarial
 7909;femenino;comercio;tienda;popular;1;1.0;2018-08-02;5000000;microempresarial
 7910;femenino;comercio;granero;boyaca;3;5.0;2017-06-30;7000000;microempresarial
-7911;femenino;comercio;cafeteria;bel¿n;3;16.0;2016-01-14;6800000;microempresarial
+7911;femenino;comercio;cafeteria;bel n;3;16.0;2016-01-14;6800000;microempresarial
 7912;masculino;comercio;variedades;altavista;2;70.0;2017-10-27;3000000;microempresarial
 7913;femenino;comercio;tienda;pablo vi;2;2.0;2017-04-26;4300000;microempresarial
 7916;femenino;industria;de fabrica;florencia;3;5.0;2017-12-04;3000000;microempresarial
@@ -8016,7 +8016,7 @@
 8487;masculino;industria;de fabrica;popular;1;1.0;2018-05-15;7812000;microempresarial
 8488;masculino;industria;de fabrica;2 central manrique no;2;3.0;2018-06-21;6000000;microempresarial
 8489;femenino;comercio;variedades;aires buenos;3;9.0;2019-01-18;8200000;microempresarial
-8490;masculino;servicio;organización y;barrio caicedo;1;9.0;2018-10-11;7000000;microempresarial
+8490;masculino;servicio;n organizaci y;barrio caicedo;1;9.0;2018-10-11;7000000;microempresarial
 8491;femenino;industria;de fabrica;aires buenos;3;9.0;2018-06-21;4000000;microempresarial
 8492;femenino;comercio;comidas rapidas;aires buenos;3;9.0;2017-01-06;6000000;microempresarial
 8493;masculino;comercio;tienda;aires buenos;2;9.0;2019-06-28;1500000;microempresarial
@@ -8065,7 +8065,7 @@
 8539;femenino;industria;de fabrica;aires buenos;3;9.0;2017-02-16;6000000;microempresarial
 8540;femenino;comercio;legumbreria;de lopez mesa;3;7.0;2018-02-01;3000000;microempresarial
 8544;femenino;comercio;tienda;domingo santo savio;2;1.0;2018-05-28;2800000;microempresarial
-8546;masculino;comercio;organización y;1 central manrique no;2;4.0;2016-10-05;3000000;microempresarial
+8546;masculino;comercio;n organizaci y;1 central manrique no;2;4.0;2016-10-05;3000000;microempresarial
 8547;masculino;comercio;animales criadero de;palmitas;2;50.0;2018-04-23;4000000;microempresarial
 8548;masculino;servicio;barberia;belen;2;16.0;2016-12-21;6800000;microempresarial
 8549;femenino;servicio;comidas rapidas;hermosa villa;3;8.0;2016-03-09;6500000;microempresarial
@@ -8230,7 +8230,7 @@
 8721;masculino;servicio;comidas rapidas;floresta la;3;12.0;2017-10-20;73770000;microempresarial
 8722;femenino;comercio;tienda;la milagrosa;3;9.0;2017-06-02;5000000;microempresarial
 8723;femenino;comercio;de fabrica;popular;1;1.0;2018-10-22;7800000;microempresarial
-8725;femenino;industria;alimentos de fabrica;antonio nari¿o;2;13.0;2016-01-18;5000000;microempresarial
+8725;femenino;industria;alimentos de fabrica;antonio nari o;2;13.0;2016-01-18;5000000;microempresarial
 8726;masculino;comercio;belleza de productos;robledo;2;7.0;2018-05-18;7800000;microempresarial
 8727;femenino;servicio;alimentos de fabrica;santander;2;6.0;2018-02-08;6000000;microempresarial
 8728;femenino;comercio;restaurante;barrio caicedo;3;9.0;2017-10-11;5000000;microempresarial
@@ -8315,7 +8315,7 @@
 8814;femenino;comercio;almacen de en ropa;robledo;2;7.0;2016-10-14;6890000;microempresarial
 8815;masculino;comercio;alimentos de fabrica;las palmas;3;10.0;2018-10-18;2000000;microempresarial
 8817;femenino;agropecuaria;animales criadero de;2 javier no san;2;13.0;2016-02-17;5000000;agropecuaria
-8818;femenino;agropecuaria;sembrados;de josé la montaña san;2;60.0;2017-06-02;4000000;microempresarial
+8818;femenino;agropecuaria;sembrados;a de jos la monta san;2;60.0;2017-06-02;4000000;microempresarial
 8819;femenino;comercio;charcuteria;enciso;2;8.0;2018-07-10;5500000;microempresarial
 8820;masculino;industria;de fabrica;aranjuez;2;4.0;2016-06-08;4000000;microempresarial
 8821;masculino;industria;ebanistaria;picacho;1;6.0;2019-04-30;5200000;microempresarial
@@ -8994,7 +8994,7 @@
 9556;femenino;industria;de fabrica;carpinelo;1;1.0;2018-07-24;5000000;microempresarial
 9557;masculino;servicio;en mantenimiento;castilla;2;5.0;2018-03-13;5000000;microempresarial
 9558;femenino;comercio;comidas rapidas;aranjuez;2;4.0;2018-04-09;4500000;microempresarial
-9559;femenino;comercio;organización y;domingo santo savio;2;1.0;2018-05-02;7800000;microempresarial
+9559;femenino;comercio;n organizaci y;domingo santo savio;2;1.0;2018-05-02;7800000;microempresarial
 9560;femenino;comercio;variedades;hermosa villa;3;8.0;2018-06-27;7800000;microempresarial
 9561;femenino;comercio;tienda;domingo santo savio;1;1.0;2018-09-14;7800000;microempresarial
 9562;femenino;industria;de fabrica;cano maria;1;3.0;2018-03-01;3000000;microempresarial
@@ -9147,7 +9147,7 @@
 9725;femenino;comercio;calzado de venta;barrio caicedo;2;9.0;2016-11-02;3000000;microempresarial
 9726;masculino;servicio;variedades;belen;2;16.0;2017-11-20;7000000;microempresarial
 9727;femenino;comercio;variedades;1 central manrique no;2;4.0;2017-07-05;6080000;microempresarial
-9728;masculino;agropecuaria;sembrados;de josé la montaña san;1;60.0;2017-12-04;14000000;microempresarial
+9728;masculino;agropecuaria;sembrados;a de jos la monta san;1;60.0;2017-12-04;14000000;microempresarial
 9729;femenino;servicio;gimnasio;cabecera cristobal san;3;60.0;2016-11-29;6000000;microempresarial
 9730;masculino;servicio;de pollos venta;cabecera cristobal san;2;60.0;2017-07-26;7300000;microempresarial
 9731;femenino;comercio;de fabrica;popular;2;1.0;2019-05-13;7300000;microempresarial
@@ -9178,7 +9178,7 @@
 9759;femenino;comercio;tienda;cabecera cristobal san;2;60.0;2017-05-05;5000000;microempresarial
 9760;masculino;agropecuaria;viveros;cabecera cristobal san;2;60.0;2017-05-02;3000000;microempresarial
 9762;femenino;servicio;peluqueria;robledo;2;7.0;2017-12-12;7377000;microempresarial
-9763;masculino;servicio;organización y;santander;2;6.0;2018-03-02;3500000;microempresarial
+9763;masculino;servicio;n organizaci y;santander;2;6.0;2018-03-02;3500000;microempresarial
 9764;masculino;comercio;peluqueria;andalucia;2;2.0;2017-01-25;5000000;microempresarial
 9765;femenino;industria;de fabrica;aranjuez;3;4.0;2017-12-13;4000000;microempresarial
 9766;femenino;comercio;almacen de en ropa;lucia santa;3;12.0;2018-07-27;7800000;microempresarial
@@ -9256,7 +9256,7 @@
 9850;femenino;comercio;comidas rapidas;conquistadores nuevos;1;13.0;2017-03-08;6000000;microempresarial
 9851;masculino;comercio;variedades;1 central manrique no;2;4.0;2018-07-05;3000000;microempresarial
 9852;masculino;comercio;colchones de fabrica;manrique oriental;1;3.0;2018-10-31;6000000;microempresarial
-9853;femenino;servicio;organización y;1 campo no valdes;3;4.0;2018-12-04;7800000;microempresarial
+9853;femenino;servicio;n organizaci y;1 campo no valdes;3;4.0;2018-12-04;7800000;microempresarial
 9854;femenino;comercio;almacen de en ropa;belen;2;16.0;2017-12-22;4400000;microempresarial
 9855;femenino;comercio;colchones de fabrica;aranjuez;3;4.0;2017-06-21;7377000;microempresarial
 9857;masculino;industria;marqueteria;castilla;2;5.0;2019-01-24;8000000;microempresarial
@@ -9462,7 +9462,7 @@
 10080;femenino;comercio;almacen de en ropa;el socorro;2;13.0;2016-10-13;6000000;microempresarial
 10081;femenino;industria;de fabrica;moravia;1;4.0;2018-06-12;6000000;microempresarial
 10083;femenino;comercio;variedades;carpinelo;1;1.0;2018-04-11;4000000;microempresarial
-10084;masculino;servicio;organización y;belen;2;16.0;2018-10-31;7500000;microempresarial
+10084;masculino;servicio;n organizaci y;belen;2;16.0;2018-10-31;7500000;microempresarial
 10085;femenino;comercio;tienda;belen;2;16.0;2017-09-08;3000000;microempresarial
 10086;femenino;industria;de fabrica;candelaria la;3;10.0;2016-10-03;4100000;microempresarial
 10087;masculino;comercio;almacen de en ropa;belen;3;16.0;2018-04-19;7812000;microempresarial
@@ -9534,7 +9534,7 @@
 10158;masculino;comercio;tienda;1 campo no valdes;2;4.0;2018-02-12;7800000;microempresarial
 10159;femenino;servicio;tienda;belen;2;16.0;2017-09-27;7377000;microempresarial
 10160;femenino;industria;de fabrica;aires buenos;3;9.0;2018-11-28;7800000;microempresarial
-10161;masculino;industria;de fabrica;antonio nariño;2;13.0;2018-03-14;7800000;microempresarial
+10161;masculino;industria;de fabrica;antonio nari o;2;13.0;2018-03-14;7800000;microempresarial
 10162;femenino;comercio;ebanistaria;boyaca;3;5.0;2017-08-29;7000000;microempresarial
 10163;femenino;comercio;variedades;kennedy;2;6.0;2018-11-20;6000000;microempresarial
 10164;femenino;servicio;variedades;belen;3;16.0;2016-12-07;20000000;ed empresarial
@@ -9600,7 +9600,7 @@
 10230;femenino;comercio;legumbreria;la pradera;2;13.0;2016-11-23;3000000;microempresarial
 10231;femenino;industria;variedades;el salvador;3;9.0;2016-12-07;6890000;microempresarial
 10232;femenino;servicio;peluqueria;popular;1;1.0;2018-08-29;4500000;microempresarial
-10233;femenino;comercio;educativo recreativo;bel¿n;3;16.0;2016-02-15;6890000;microempresarial
+10233;femenino;comercio;educativo recreativo;bel n;3;16.0;2016-02-15;6890000;microempresarial
 10234;femenino;servicio;peluqueria;castilla;3;5.0;2019-04-26;7500000;microempresarial
 10235;masculino;servicio;lavanderia;conquistadores nuevos;1;13.0;2017-12-18;2500000;microempresarial
 10236;femenino;comercio;almacen de en ropa;1 campo no valdes;3;4.0;2017-06-06;700000;microempresarial
@@ -9846,7 +9846,7 @@
 10503;femenino;servicio;peluqueria;de lima rosa santa;3;13.0;2017-10-20;7370000;microempresarial
 10504;femenino;comercio;variedades;cristo rey;3;15.0;2018-05-03;3000000;microempresarial
 10505;femenino;comercio;variedades;floresta la;3;12.0;2018-10-29;7812000;microempresarial
-10506;femenino;servicio;organización y;domingo santo savio;1;1.0;2018-05-31;5000000;microempresarial
+10506;femenino;servicio;n organizaci y;domingo santo savio;1;1.0;2018-05-31;5000000;microempresarial
 10507;masculino;comercio;variedades;andalucia;2;2.0;2017-10-13;7300000;microempresarial
 10508;masculino;industria;colchones de fabrica;popular;2;1.0;2017-11-23;3300000;microempresarial
 10509;femenino;comercio;almacen de en ropa;hermosa villa;2;8.0;2019-06-11;8500000;microempresarial
@@ -10144,7 +10144,7 @@
 10844;masculino;comercio;comidas rapidas;1 central manrique no;1;4.0;2018-11-28;7812000;microempresarial
 10845;femenino;comercio;restaurante;belen;2;7.0;2016-10-06;3000000;microempresarial
 10846;masculino;comercio;tienda;1 de doce no octubre;2;6.0;2019-04-10;8261160;microempresarial
-10847;femenino;servicio;organización y;altavista;2;70.0;2016-04-26;4000000;microempresarial
+10847;femenino;servicio;n organizaci y;altavista;2;70.0;2016-04-26;4000000;microempresarial
 10848;femenino;comercio;variedades;barrio caicedo;2;9.0;2016-04-01;5000000;microempresarial
 10849;femenino;servicio;peluqueria;aires buenos;3;9.0;2019-05-08;8281000;microempresarial
 10850;masculino;comercio;comidas rapidas;castilla;3;5.0;2018-03-01;6000000;microempresarial
