@@ -13,28 +13,7 @@ Escriba el codigo que ejecute la accion solicitada en la pregunta.
     El archivo limpio debe escribirse en "files/output/solicitudes_de_credito.csv"
 
     """
-"""Escriba el codigo que ejecute la accion solicitada en la pregunta."""
-
-"""Escriba el codigo que ejecute la accion solicitada en la pregunta."""
-
-"""Escriba el codigo que ejecute la accion solicitada en la pregunta."""
-
-import os
-import re
-
-import pandas as pd  # type: ignore
-
-
-def _fingerprint(valor):
-    """
-    Genera la "huella" (fingerprint) de una cadena de texto:
-    - convierte a minusculas y quita espacios sobrantes
-    - elimina puntuacion (puntos, guiones, guiones bajos, etc.) 
-      pero mantiene tildes y caracteres especiales importantes
-    - separa en palabras, elimina duplicadas y las ordena alfabeticamente
-    - las vuelve a unir con un solo espacio
-    """
-    """
+"""
 Escriba el codigo que ejecute la accion solicitada en la pregunta.
 """
 
