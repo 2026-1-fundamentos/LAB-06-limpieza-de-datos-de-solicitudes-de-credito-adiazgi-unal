@@ -3585,7 +3585,7 @@
 3709;femenino;comercio;de distribuidora;robledo;2;7.0;2019-01-25;3000000;microempresarial
 3710;femenino;industria;de fabrica;belencito;1;13.0;2018-07-06;3500000;microempresarial
 3711;masculino;comercio;montallantas;del socorro villa;2;2.0;2016-09-22;2000000;microempresarial
-3712;masculino;industria;calzado de fabrica;cima de jose la no san;1;3.0;2016-11-22;1000000;microempresarial
+3712;masculino;industria;calzado de fabrica;cima de jose la no san punto;1;3.0;2016-11-22;1000000;microempresarial
 3713;femenino;industria;de fabrica;castilla;3;5.0;2018-02-15;4000000;microempresarial
 3714;femenino;comercio;alimentos de fabrica;robledo;2;7.0;2018-07-30;7000000;microempresarial
 3715;femenino;comercio;variedades;jesus nazareno;3;10.0;2017-06-28;5000000;microempresarial
@@ -4292,7 +4292,7 @@
 4462;femenino;comercio;almacen de en ropa;2 central manrique no;2;3.0;2016-11-23;6890000;microempresarial
 4464;masculino;industria;de electronica taller;1 campo no valdes;3;4.0;2017-06-27;6000000;microempresarial
 4465;masculino;servicio;tienda;alfonso lopez;3;5.0;2019-02-27;6500000;microempresarial
-4466;masculino;comercio;comidas rapidas;cima de jose la no san;2;3.0;2018-04-04;5000000;microempresarial
+4466;masculino;comercio;comidas rapidas;cima de jose la no san punto;2;3.0;2018-04-04;5000000;microempresarial
 4467;masculino;servicio;barberia;girardot;3;5.0;2016-05-10;6800000;microempresarial
 4469;masculino;comercio;variedades;cruz santa;2;2.0;2017-09-27;7000000;microempresarial
 4470;masculino;comercio;restaurante;castilla;3;5.0;2017-04-28;7377000;microempresarial
@@ -4353,7 +4353,7 @@
 4528;femenino;industria;de fabrica;hermosa villa;2;9.0;2019-01-31;8200000;microempresarial
 4529;femenino;industria;ceramica de fabrica;robledo;1;7.0;2016-06-09;6890000;microempresarial
 4530;masculino;industria;de fabrica;1 campo no valdes;3;4.0;2018-04-09;2000000;microempresarial
-4531;femenino;comercio;variedades;expansion san zona;2;80.0;2018-06-15;7000000;microempresarial
+4531;femenino;comercio;variedades;expansion san zona fecha;2;80.0;2018-06-15;7000000;microempresarial
 4532;femenino;comercio;de fabrica;1 javier no san;1;13.0;2016-08-11;6800000;microempresarial
 4533;masculino;comercio;restaurante;1 de doce no octubre;2;6.0;2017-05-12;4000000;microempresarial
 4534;femenino;comercio;variedades;belen;3;16.0;2017-06-28;7000000;microempresarial
@@ -4715,7 +4715,7 @@
 4910;masculino;servicio;restaurante;girardot;3;5.0;2017-02-06;3500000;microempresarial
 4911;femenino;comercio;comidas rapidas;popular;2;1.0;2017-10-24;6000000;microempresarial
 4912;masculino;comercio;almacen de en ropa;cabecera cristobal san;2;60.0;2017-12-12;2000000;microempresarial
-4913;masculino;comercio;joyeria;antonio nari o;1;13.0;2017-08-29;7370000;microempresarial
+4913;masculino;comercio;joyeria;antonio nari o guion bajo;1;13.0;2017-08-29;7370000;microempresarial
 4914;masculino;comercio;de fabrica helados;1 javier no san;2;13.0;2017-07-28;6000000;microempresarial
 4915;femenino;industria;de fabrica;1 de doce no octubre;2;6.0;2017-07-13;3000000;microempresarial
 4916;femenino;industria;de fabrica;cruz santa;2;2.0;2017-11-02;5000000;microempresarial
@@ -8499,7 +8499,7 @@
 9025;masculino;comercio;almacen de en ropa;popular;2;1.0;2018-01-22;4000000;microempresarial
 9026;femenino;industria;de fabrica;el socorro;1;13.0;2018-02-08;5000000;microempresarial
 9027;femenino;comercio;almacen de en ropa;1 javier no san;1;13.0;2018-06-07;1200000;microempresarial
-9028;femenino;comercio;variedades;expansion san zona;2;80.0;2018-02-27;7800000;microempresarial
+9028;femenino;comercio;variedades;expansion san zona fecha;2;80.0;2018-02-27;7800000;microempresarial
 9029;femenino;servicio;publicidad y;barrio caicedo;1;9.0;2017-04-26;7377000;microempresarial
 9030;masculino;comercio;alimentos de fabrica;castilla;3;5.0;2017-06-08;4000000;microempresarial
 9031;masculino;comercio;variedades;la ladera;3;8.0;2018-04-26;7800000;microempresarial
@@ -9805,7 +9805,7 @@
 10457;masculino;comercio;tienda;hermosa villa;2;8.0;2018-10-24;3000000;microempresarial
 10458;masculino;comercio;cafeteria;belen;3;16.0;2018-09-14;7800000;microempresarial
 10459;masculino;industria;de fabrica;belen;3;16.0;2017-06-27;7000000;microempresarial
-10462;femenino;servicio;de fabrica;cima de jose la no san;1;3.0;2018-09-14;3000000;microempresarial
+10462;femenino;servicio;de fabrica;cima de jose la no san punto;1;3.0;2018-09-14;3000000;microempresarial
 10463;femenino;industria;de fabrica;20 de julio;2;13.0;2017-10-19;6000000;microempresarial
 10464;femenino;industria;de fabrica;1 central manrique no;3;4.0;2018-05-11;5000000;microempresarial
 10465;masculino;comercio;variedades;hermosa villa;2;8.0;2017-01-11;6000000;microempresarial
